@@ -1,0 +1,121 @@
+{
+  "id": "2418526",
+  "name": "ele_app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18729641",
+      "name": "对号 圆",
+      "font_class": "duihaoyuan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "5485615",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1440923",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "1305",
+      "name": "购物车满",
+      "font_class": "gouwucheman",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6536737",
+      "name": "叉号",
+      "font_class": "chahao",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12089102",
+      "name": "右箭头",
+      "font_class": "arrow_right_fat",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "13646840",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15644393",
+      "name": "星星",
+      "font_class": "xingxing1",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "18170319",
+      "name": "星,星星,星形,半星",
+      "font_class": "star-half",
+      "unicode": "e9a1",
+      "unicode_decimal": 59809
+    },
+    {
+      "icon_id": "9509962",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6548544",
+      "name": "筛选",
+      "font_class": "shaixuan",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "11741023",
+      "name": "position",
+      "font_class": "position",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "198623",
+      "name": "Back icon1",
+      "font_class": "backicon1",
+      "unicode": "e937",
+      "unicode_decimal": 59703
+    },
+    {
+      "icon_id": "663232",
+      "name": "search",
+      "font_class": "i-search",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11488080",
+      "name": "map",
+      "font_class": "map",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "12011691",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    }
+  ]
+}
